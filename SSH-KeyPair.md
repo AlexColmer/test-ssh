@@ -1,5 +1,5 @@
 # SSH Key Pairs 
-![Alt text](Images/sshkeypair.png)
+![](Images/sshkeypair.png)
 ## How to creat SSH key pair and use it with github 
 
 ### Step 1
